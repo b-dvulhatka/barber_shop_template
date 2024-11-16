@@ -1,6 +1,4 @@
-README.md
-```
-```markdown
+
 # Barber Shop Application
 
 Welcome to the Barber Shop Application! This application is designed to manage a barber shop's operations, including booking appointments, managing services, and handling user access. The application is built using Streamlit for the frontend and SQLite for the database.
