@@ -1,6 +1,4 @@
-README.md
-```
-```markdown
+
 # Barber Shop Application
 
 Welcome to the Barber Shop Application! This application is designed to manage a barber shop's operations, including booking appointments, managing services, and handling user access. The application is built using Streamlit for the frontend and SQLite for the database.
@@ -25,7 +23,3 @@ Welcome to the Barber Shop Application! This application is designed to manage a
 
 - **`app.py`**: Main application file that sets up the Streamlit interface and handles navigation.
 - **`functions.py`**: Contains all the backend logic for database operations and page functionalities.
-
-```
-
-```
