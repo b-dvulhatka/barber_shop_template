@@ -23,7 +23,3 @@ Welcome to the Barber Shop Application! This application is designed to manage a
 
 - **`app.py`**: Main application file that sets up the Streamlit interface and handles navigation.
 - **`functions.py`**: Contains all the backend logic for database operations and page functionalities.
-
-```
-
-```
