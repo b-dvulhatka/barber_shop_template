@@ -246,7 +246,7 @@ def home_page():
     st.title("Welcome to Our Barber Shop 💈")
 
     st.write("High-quality grooming services for the modern gentleman. Book an appointment, explore our services, and get to know us!")
-    st.image("barber_shop_image.jpg", use_container_width=True)  # Replace with your own image
+    st.image("uploads/main_page/barber_shop_image.jpg", use_container_width=True)  # Replace with your own image
 
 def services_page():
     st.header("Our Services")
